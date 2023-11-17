@@ -1,0 +1,25 @@
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.heading {
+    font-size: 40px;
+    width: 60%;
+}
+
+.objectsBox {
+    background-color: peachpuff;
+    width: 15%;
+    padding: 20px;
+    border-color: brown;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10%;
+}
+
+.objects {
+    color: black;
+    font-size: 20px;
+}
