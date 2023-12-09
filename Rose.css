@@ -1,0 +1,40 @@
+body {
+    background-image: url("Rose.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.heading {
+    font-size: 40px;
+    width: 60%;
+}
+
+#backButton {
+    font-size: 20px;
+    background-color: greenyellow;
+    border-width: 1px;
+    border-color: green;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+#backButton:hover {
+    border-width: 1px;
+    border-color: green;
+    border-radius: 5px;
+}
+
+#status{
+    font-weight: 500;
+    font-size: 18px;
+    color: whitesmoke;
+}
+
+canvas {
+    background-color: white;
+    border-style: solid;
+    border-width: 15px;
+    border-radius: 15px;
+    border-color: gray;
+    margin-top: 80px;
+}
